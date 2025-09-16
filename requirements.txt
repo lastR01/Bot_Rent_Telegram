@@ -1,0 +1,9 @@
+aiogram==2.23.1
+amocrm_api
+docxtpl
+docx2pdf
+num2words
+ymaps
+python-telegram-bot-calendar
+python-telegram-bot-pagination
+selenium
